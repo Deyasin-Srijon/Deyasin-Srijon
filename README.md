@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=👋%20Hi%20There!&fontSize=35&fontColor=fff&animation=fadeIn" />
+  <img src="assets/developer-activity-animate.svg" width="600px">
 </p>
 
 <!-- Introduction -->
@@ -26,37 +26,35 @@
 
 ---
 
-### 🛠️ Tech Stack  
-<div align="center">
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" height="40">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=orange" height="40">
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue" height="40">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" height="40">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=red" height="40">
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" height="40">
-  <img src="https://img.shields.io/badge/JDBC-black?style=for-the-badge&logo=oracle&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Servlet-black?style=for-the-badge&logo=java&logoColor=red" height="40">
-  <img src="https://img.shields.io/badge/JSP-black?style=for-the-badge&logo=java&logoColor=red" height="40">
-</div>
-
----
-
-### 📌 Projects  
-🔹 [Finance Company Landing Page](https://github.com/Deyasin-Srijon/Finance-Company-Landing-Page-Design.git) - **HTML & CSS with transitions**  
-🔹 [Bank Management System](https://github.com/Deyasin-Srijon/Bank-Management-System.git) - **Console-based Java project**  
-🔹 [Calculator](https://github.com/Deyasin-Srijon/Calculator.git) - **JavaScript-based calculator**  
-
----
-
-### 📫 Connect With Me  
 <div>
-  <a href="www.linkedin.com/in/srijon-deyasin-59688934b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Deyasin-Srijon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:deyasin.srijon01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/DeyasinSrijon"><img src="https://img.shields.io/badge/x-000?style=for-the-badge&logo=x"></a>
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer" />
+---
+
+### Hackathon Participation  
+<p>
+  <img src="assets/SBH_Logo.png" alt="smart bengal hackathon, 2024" height="60"/>
+  <img src="assets/Innovocon_Logo.png" alt="Innovocon, 2025" height="60"/>
 </p>
+
+---
+
+### Connect With Me  
+<div>
+  <a href="www.linkedin.com/in/srijon-deyasin-59688934b"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://github.com/Deyasin-Srijon"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="mailto:deyasin.srijon01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://x.com/DeyasinSrijon"><img src="https://skillicons.dev/icons?i=twitter"></a>
+</div>
