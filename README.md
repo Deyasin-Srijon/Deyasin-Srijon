@@ -1,10 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assets/developer-activity-animate.svg" width="600px">
+  <img src="assets/developer-activity-animate.svg" width="500px">
 </p>
 
 <!-- Introduction -->
-<h2 align="center">I'm Srijon Deyasin</h2>
+<h1 align="center" >I'm Srijon Deyasin</h1>
 <p align="center">
   Aspiring Java & J2EE Developer | CSE pre final | Tech Enthusiast  
 </p>
